@@ -13,8 +13,8 @@ import (
 	"strings"
 	"text/template"
 
-	"github.com/kelseyhightower/coreos-ipxe-server/config"
-	"github.com/kelseyhightower/coreos-ipxe-server/kernel"
+	"github.com/AcalephStorage/coreos-ipxe-server/config"
+	"github.com/AcalephStorage/coreos-ipxe-server/kernel"
 )
 
 const ipxeBootScript = `#!ipxe
